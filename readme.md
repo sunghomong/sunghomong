@@ -83,10 +83,3 @@
     </div>
   </div><br>
 </div>
-
-### GitHub 사용중인 언어
-
-<div>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghomong&layout=compact"><br><br>
-</div>
