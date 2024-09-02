@@ -6,7 +6,6 @@
 ### 🤞 Another way to meet me
 <div>
   <a href="https://sunghomong.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/s.h__dailys" target="_blank"><img src="https://img.shields.io/badge/s.h____dailys-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:kidcojsh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kidcojsh@gmail.com-EA4221?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <br>
